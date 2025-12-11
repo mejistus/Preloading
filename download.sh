@@ -8,6 +8,9 @@ export HF_TOKEN='hf_token'
 mkdir -p $HF_HOME
 
 pip install huggingface_hub -U
+pip install -U git+https://github.com/huggingface/diffusers
+
+
 hf auth login --token $HF_TOKEN
 
 # Tongyi-MAI/Z-Image-Turbo 

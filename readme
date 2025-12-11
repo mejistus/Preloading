@@ -1,0 +1,3 @@
+1. 修改HF_HOME变量为你的数据盘地址，例如/dataset/huggingface
+2. 编辑HF_TOKEN访问受限模型
+3. chmod +x download.sh
