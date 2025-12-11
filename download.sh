@@ -1,9 +1,9 @@
 export HF_ENDPOINT=https://hf-mirror.com
 
 
-export HF_HOME=huggingface
+export HF_HOME='<hf_path>'
 
-export HF_TOKEN='hf_token'
+export HF_TOKEN='hf_xxxx'
 
 mkdir -p $HF_HOME
 
