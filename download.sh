@@ -21,3 +21,5 @@ python scripts/download.py --model Qwen/Qwen3-VL-8B-Instruct
 # Qwen/Qwen2.5-VL-7B-Instruct
 python scripts/download.py --model Qwen/Qwen2.5-VL-7B-Instruct 
 
+
+
